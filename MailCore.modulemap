@@ -1,0 +1,9 @@
+module MailCore {
+	header "MailCore.h"
+	header "MCOAbstractPart.h"
+	header "MCOMessagePart.h"
+	header "MCOMultipart.h"
+	header "MCOAttachment.h"
+
+	export *
+}
